@@ -1,0 +1,45 @@
+.super-strong {
+    border: 5px solid black;
+}
+
+.super-fast {
+	color: red;
+}
+
+#super-vision {
+	padding: 50px;
+	margin: 50px;
+}
+
+.font-fun {
+	font-family: 'Roboto', Arial, sans-serif;
+	font-size: 14px;
+	/* 1px
+	1em em
+	1rem relative em
+	1% percentage
+	vp view port
+	vw view width
+	vh view height */
+	font-weight: 
+	/* 100
+	200
+
+	600 default
+
+	... 900
+	normal	bold	bolder */
+}
+
+#green {
+	background-color: green;
+	height: 50px;
+	width: 50px;
+}
+
+#blue {
+	background-color: blue;
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+}
